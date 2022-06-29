@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Antony Micheal!](https://www.linkedin.com/in/k-s-antony-micheal-6419bb19a/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Antony Micheal!](https://www.linkedin.com/in/k-s-antony-micheal-6419bb19a/) 
 
 <a href="https://www.linkedin.com/in/k-s-antony-micheal-6419bb19a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
