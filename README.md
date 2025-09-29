@@ -1,33 +1,104 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Antony Micheal!](https://www.linkedin.com/in/k-s-antony-micheal-6419bb19a/) 
+# Hey there! 👋 I'm Antony Micheal
 
 <a href="https://www.linkedin.com/in/k-s-antony-micheal-6419bb19a/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/ANTONYMICHEALK1">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:antonymichelks@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://github.com/AntonyMicheal">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.hackerrank.com/antonymichelks?hr_r=1">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<br />
 
-### About Me 🚀
-🎓 I’m an Open-Source enthusiast & Pursuing my Masters in Computer Science with specialisation in Soft Computing. </br>
-👨‍💻  I am passionate about Machine Learning, Web Dev & I enjoy learning new things. </br>
-🌱 I’m currently learning Git, DSA</br>
-🤔 I’m looking for help with Open source</br>
-😄 Pronouns: He/Him</br>
+<br/><br/>
 
-### Tech & Tools Preference
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+---
+
+## 🚀 About Me
+- 💻 Software Developer (2.5+ years) specializing in **Cloud-Native Applications** & **Data Engineering**  
+- ☁️ Strong expertise in **Microsoft Azure**, **Databricks**, **Snowflake**, **Apache Airflow**  
+- 🛠 Skilled in designing **scalable APIs**, **ETL pipelines**, and **automation systems**  
+- ⚡ Promoted rapidly at EY from [Associate I]: **Software Engineer** ➝ [Associate III]: **Senior Software Engineer** in 2 years  
+- 🌱 Currently exploring **Advanced Data Engineering** & **Distributed Systems**  
+- 😄 Pronouns: He/Him  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Core Skills:**  
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
+![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash)
+
+**Cloud & Data Platforms:**  
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure)
+![Databricks](https://img.shields.io/badge/-Databricks-EF3B2D?style=flat&logo=databricks)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake)
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow)
+
+**DevOps & Containers:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
+![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git) 
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=github-actions)
+
+**Frameworks & Tools:**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![REST](https://img.shields.io/badge/-REST%20APIs-FF6F00?style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+
+## 🎓 Education
+- 🎓 **Masters in Computer Science** – CUSAT (CGPA: 8.7)  
+- 🎓 **BCA** – MG University  
+
+---
+
+## 🏆 Certifications
+- 🧩 Databricks Certified Data Engineer Associate  
+- ☁️ Microsoft Azure Fundamentals (AZ-900)  
+---
+## 🌟 Key Projects
+
+🔹 **Medical Data Pipeline Automation**  
+*Python · Snowflake · Apache Airflow · Azure*  
+→ Automated medical records pipeline with modular Python packages & Airflow orchestration.
+
+🔹 **Azure Resource Utilization Monitoring System**  
+*Azure Functions · Azure APIs · Python · SMTP*  
+→ Real-time resource monitoring & intelligent cost optimization, reducing waste by 30%.
+
+🔹 **Medical Image Classification System**  
+*Deep Learning · Transfer Learning · Docker*  
+→ Developed CNN-based COVID-19 detection system with comparative model evaluation.
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AntonyMicheal&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyMicheal&layout=compact&theme=tokyonight" />
+</p>
+
+---
+## 🔥 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyMicheal&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+⭐️ From [AntonyMicheal](https://github.com/AntonyMicheal)  
