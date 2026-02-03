@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Software Developer (2.5+ years) specializing in **Cloud-Native Applications** & **Data Engineering**  
+- 💻 Software Developer (3+ years) specializing in **Cloud-Native Applications** & **Data Engineering**  
 - ☁️ Strong expertise in **Microsoft Azure**, **Databricks**, **Snowflake**, **Apache Airflow**  
 - 🛠 Skilled in designing **scalable APIs**, **ETL pipelines**, and **automation systems**  
 - ⚡ Promoted rapidly at EY from [Associate I]: **Software Engineer** ➝ [Associate III]: **Senior Software Engineer** in 2 years  
