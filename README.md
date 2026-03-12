@@ -26,7 +26,7 @@
 - 🛠 Skilled in designing **scalable APIs**, **ETL pipelines**, and **automation systems**  
 - ⚡ Promoted rapidly at EY from [Associate I]: **Software Engineer** ➝ [Associate III]: **Senior Software Engineer** in 2 years  
 - 🌱 Currently exploring **Advanced Data Engineering** & **Distributed Systems**  
-- 😄 Pronouns: He/Him  
+- 😄 Pronouns: He/Him
 
 ---
 
